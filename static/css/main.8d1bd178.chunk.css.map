@@ -1,0 +1,1 @@
+{"version":3,"sources":["formularios.css"],"names":[],"mappings":"AAEA,kBACI,aACJ,CAEA,yBACI,cAAe,CACf,YACJ","file":"main.8d1bd178.chunk.css","sourcesContent":["/* Personalizado */\r\n\r\np:not(.card-text) {\r\n    color: #bf1650;\r\n}\r\n\r\np:not(.card-text)::before  {\r\n    display: inline;\r\n    content: \"⚠ \";\r\n}"]}
