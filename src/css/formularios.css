@@ -1,0 +1,10 @@
+/* Personalizado */
+
+p:not(.card-text) {
+    color: #bf1650;
+}
+
+p:not(.card-text)::before  {
+    display: inline;
+    content: "⚠ ";
+}
